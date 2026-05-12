@@ -6,49 +6,52 @@ Welcome to **HiGrp**! 🚀
 
 ## 📊 Active Projects
 
-### Core Projects
+### 🎯 Core Platforms
 - **[01-HiBigBi](https://github.com/HiGrp/01-HiBigBi)** ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python) - Main BigData & Analytics Platform
-- **[10-HiGrpFacturation](https://github.com/HiGrp/10-HiGrpFacturation)** ![Twig](https://img.shields.io/badge/Twig-90C83D?style=flat-square) - Billing & Invoice Management
-- **[ZZ-MediaPipeWebApp](https://github.com/HiGrp/ZZ-MediaPipeWebApp)** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript) - Web App for Pose & Face Detection
-- **[ZZ-Training](https://github.com/HiGrp/ZZ-Training)** ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python) - ML Training Framework
+- **[01-HiBigBi-Deploy](https://github.com/HiGrp/01-HiBigBi-Deploy)** - Deployment & Infrastructure
+- **[02-GraphAsk-SaaS](https://github.com/HiGrp/02-GraphAsk-SaaS)** - SaaS Platform for Graph Processing
+- **[02-GraphAsk-Deploy](https://github.com/HiGrp/02-GraphAsk-Deploy)** - GraphAsk Deployment
+- **[02-Graphask-B2B](https://github.com/HiGrp/02-Graphask-B2B)** - GraphAsk B2B Solution
 
-### Mobile & Desktop Applications
+### 📱 Mobile & Desktop Applications
 - **[00-Mobile-App-CarDiag](https://github.com/HiGrp/00-Mobile-App-CarDiag)** ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java) - Car Diagnostics Mobile App
-- **[Old-FlutterApp](https://github.com/HiGrp/Old-FlutterApp)** ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart) - Flutter Application
-- **[Old-AnimariApp](https://github.com/HiGrp/Old-AnimariApp)** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript) - Animation Application
-- **[Old-VideoApp](https://github.com/HiGrp/Old-VideoApp)** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript) - Video Processing App
-- **[Old-DesktopApp-Chatbot](https://github.com/HiGrp/Old-DesktopApp-Chatbot)** ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python) - Desktop Chatbot Application
-- **[Old-Chatbot_Desktop](https://github.com/HiGrp/Old-Chatbot_Desktop)** ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python) - Advanced Chatbot Desktop
+- **[02-GraphAsk-Mobile-App](https://github.com/HiGrp/02-GraphAsk-Mobile-App)** - GraphAsk Mobile Client
+- **[99-Mobile-App-Agent-Vocal-AI](https://github.com/HiGrp/99-Mobile-App-Agent-Vocal-AI)** - AI Voice Agent Mobile App
+- **[00-Teen-Learn-Code](https://github.com/HiGrp/00-Teen-Learn-Code)** - Educational Platform for Teens
 
-### Web Applications & APIs
-- **[Old-selfBigBi-ui](https://github.com/HiGrp/Old-selfBigBi-ui)** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript) - Self BigBi Frontend
-- **[Old-selfBigBi-api](https://github.com/HiGrp/Old-selfBigBi-api)** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php) - Self BigBi Backend API
-- **[Old-Text-to-Graph-Frontend](https://github.com/HiGrp/Old-Text-to-Graph-Frontend)** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript) - Text to Graph UI
-- **[Old-Text-to-Graph-Backend](https://github.com/HiGrp/Old-Text-to-Graph-Backend)** ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python) - Text to Graph API
-- **[Old-Streamlit-Text2SQL](https://github.com/HiGrp/Old-Streamlit-Text2SQL)** ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python) - Text to SQL Interface
-- **[Old-Streamlit-Text2SQL-v2](https://github.com/HiGrp/Old-Streamlit-Text2SQL-v2)** ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python) - Text to SQL v2
+### 💼 Billing & Facturation
+- **[10-HiGrpFacturation](https://github.com/HiGrp/10-HiGrpFacturation)** ![Twig](https://img.shields.io/badge/Twig-90C83D?style=flat-square) - Billing System
+- **[10-HiGrpFacturationV2](https://github.com/HiGrp/10-HiGrpFacturationV2)** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php) - Billing System v2
 
-### ML & AI Models
-- **[Old-Text2SQLModel](https://github.com/HiGrp/Old-Text2SQLModel)** ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python) - NLP to SQL Model
-- **[Old-SwapFaceModel](https://github.com/HiGrp/Old-SwapFaceModel)** ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python) - Face Swap AI Model
-- **[Old-selfBigBi-ml](https://github.com/HiGrp/Old-selfBigBi-ml)** - Machine Learning Models
-- **[Old-Formation_BigData-ML](https://github.com/HiGrp/Old-Formation_BigData-ML)** ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala) - BigData & ML Training
+### 🎓 Education & Learning
+- **[09-FlashExo-Mobile-App](https://github.com/HiGrp/09-FlashExo-Mobile-App)** - FlashExo Mobile Learning App
+- **[09-FlashExo-Back-Office](https://github.com/HiGrp/09-FlashExo-Back-Office)** - FlashExo Admin Dashboard
+- **[09-FlashExo-Back-Office-Laravel](https://github.com/HiGrp/09-FlashExo-Back-Office-Laravel)** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php) - FlashExo Backend (Laravel)
 
-### Infrastructure & DevOps
-- **[Old-selfBigBi-infra](https://github.com/HiGrp/Old-selfBigBi-infra)** - Infrastructure Configuration
-- **[Old-selfBigBi-docker-infra](https://github.com/HiGrp/Old-selfBigBi-docker-infra)** ![HTML](https://img.shields.io/badge/HTML-E34C26?style=flat-square&logo=html5) - Docker Infrastructure
-- **[Old-GraphAsk-Nginx](https://github.com/HiGrp/Old-GraphAsk-Nginx)** ![Dockerfile](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) - Nginx Configuration
+### 🤖 AI & Machine Learning
+- **[ZZ-Training](https://github.com/HiGrp/ZZ-Training)** ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python) - ML Training Framework
+- **[ZZ-Chatbot](https://github.com/HiGrp/ZZ-Chatbot)** ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python) - Chatbot AI Agent
+- **[04-Marketing-AI-Agent](https://github.com/HiGrp/04-Marketing-AI-Agent)** - AI-Powered Marketing Agent
+- **[ContentAi-Manager](https://github.com/HiGrp/ContentAi-Manager)** - AI Content Management System
 
-### Data & Documentation
-- **[Old-CarDiag-Datasets](https://github.com/HiGrp/Old-CarDiag-Datasets)** - Car Diagnostics Datasets
-- **[Old-HiBigBi-Documentation](https://github.com/HiGrp/Old-HiBigBi-Documentation)** - Project Documentation
-- **[Old-Hi_ai_document](https://github.com/HiGrp/Old-Hi_ai_document)** ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python) - AI Document Processing
+### 🌐 Web & Frontend
+- **[ZZ-MediaPipeWebApp](https://github.com/HiGrp/ZZ-MediaPipeWebApp)** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript) - Pose & Face Detection WebApp
+- **[00-HiGroup-LandingPage](https://github.com/HiGrp/00-HiGroup-LandingPage)** - Landing Page & Marketing Website
+- **[Higroup-new](https://github.com/HiGrp/Higroup-new)** - New HiGroup Website
 
-### Utilities & Other
-- **[Old-etl-engine](https://github.com/HiGrp/Old-etl-engine)** ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java) - ETL Processing Engine
-- **[Old-UpgradeMe](https://github.com/HiGrp/Old-UpgradeMe)** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript) - Upgrade Management System
-- **[Old-selfBigBi-stagiaires](https://github.com/HiGrp/Old-selfBigBi-stagiaires)** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript) - Intern Training Program
-- **[Old-AppTFlite](https://github.com/HiGrp/Old-AppTFlite)** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript) - TensorFlow Lite App
+### 🌐 Infrastructure & DevOps
+- **[00-Nginx-IONOS](https://github.com/HiGrp/00-Nginx-IONOS)** ![Dockerfile](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) - Nginx Configuration (IONOS Hosting)
+- **[02-GraphAsk-Azure-Marketplace](https://github.com/HiGrp/02-GraphAsk-Azure-Marketplace)** - Azure Marketplace Integration
+
+### 📊 Business & Automation
+- **[11-Social-Network-Automation](https://github.com/HiGrp/11-Social-Network-Automation)** - Social Media Automation Tools
+- **[03-KillOrScale](https://github.com/HiGrp/03-KillOrScale)** - Business Decision Platform
+
+---
+
+## 📦 Legacy Projects
+
+All legacy and archived projects (prefixed with "Old-") have been moved to **[HiGrp-Archive](https://github.com/HiGrp-Archive)** organization for better organization and cleanup.
 
 ---
 
@@ -56,25 +59,28 @@ Welcome to **HiGrp**! 🚀
 
 | Category | Technologies |
 |----------|---------------|
-| **Languages** | Python, JavaScript, TypeScript, Java, PHP, Scala, Dart |
-| **Frameworks** | Flask, Streamlit, React, Flutter, Spring |
-| **ML/AI** | TensorFlow, MediaPipe, NLP Models |
-| **DevOps** | Docker, Nginx, Infrastructure as Code |
+| **Languages** | Python, JavaScript, TypeScript, Java, PHP, Dart |
+| **Frameworks** | Flask, Streamlit, React, Flutter, Laravel, Next.js |
+| **ML/AI** | TensorFlow, MediaPipe, NLP Models, Agents |
+| **DevOps** | Docker, Nginx, Azure, IONOS |
 | **Databases** | SQL, BigData Technologies |
+| **Mobile** | React Native, Flutter, Swift |
 
 ---
 
 ## 📈 Organization Stats
 
-- **Total Repositories**: 30+
-- **Primary Languages**: Python, JavaScript, Java
-- **Focus Areas**: BigData Analytics, ML/AI, Web Development, Mobile Apps
+- **Active Projects**: 25+
+- **Legacy Projects**: 50+ (in HiGrp-Archive)
+- **Primary Languages**: Python, JavaScript, PHP
+- **Focus Areas**: SaaS Platforms, AI/ML, Education Tech, Business Automation
 
 ---
 
 ## 🔗 Quick Links
 
-- 👉 [View All Repositories](https://github.com/orgs/HiGrp/repositories)
+- 👉 [View Active Repositories](https://github.com/orgs/HiGrp/repositories)
+- 🗃️ [View Legacy Repositories](https://github.com/orgs/HiGrp-Archive/repositories)
 - 📚 [Organization Profile](https://github.com/HiGrp)
 - 💬 [Discussions](https://github.com/orgs/HiGrp/discussions)
 
