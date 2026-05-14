@@ -8,7 +8,7 @@
 
 Transform data into strategic value through artificial intelligence, to accelerate the digital transformation of your business.
 
-                              [💬 Get in Touch](https://higroup.systems/)
+[💬 Get in Touch](https://higroup.systems/)
 
 ---
 
