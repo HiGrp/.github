@@ -1,86 +1,161 @@
-# Hi Group - Organization Dashboard
+<div align="center">
 
-Welcome to **Hi Group**! 🚀
+# 🚀 Hi Group
+
+## Your Data, AI, Cloud and Cybersecurity Solutions
+
+### Sovereign, Secure, and Innovative
+
+Transform data into strategic value through artificial intelligence, to accelerate the digital transformation of your business.
+
+[🌐 Visit Website](https://higroup.systems/) • [💬 Get in Touch](https://higroup.systems/) • [📚 GitHub](https://github.com/HiGrp)
 
 ---
 
-## 📊 Active Projects
+</div>
+
+## 🎯 Our Solutions
+
+Hi Group accompanies you in your digital transformation with **expertise**, **innovation**, and **sovereignty**. Discover our complementary approaches:
+
+### ⚡ On-Demand Experts
+We provide you with qualified experts in Data, AI, Cloud, and Cybersecurity to strengthen your teams and accelerate your projects.
+
+- ✅ Certified and experienced experts
+- ✅ Quick integration into your teams
+- ✅ Flexible intervention durations
+- ✅ Personalized follow-up and support
+
+### 🏗️ Turnkey Projects
+Our internal teams take charge of your projects from A to Z, from design to production, with commitment to deadlines and quality.
+
+- ✅ Dedicated and experienced teams
+- ✅ Commitment to deadlines
+- ✅ Turnkey delivery
+- ✅ Support and maintenance included
+
+---
+
+## 🎁 Our Products
+
+Innovative technological solutions dedicated to companies to quickly benefit from their data.
+
+### 💾 BigBi
+**No-Code Drag & Drop ETL**
+
+A revolutionary ETL platform based on Apache Spark that allows companies to create complex data pipelines without writing a single line of code.
+
+- 🎨 Intuitive drag & drop interface
+- ⚡ Based on Apache Spark
+- 🔧 No code required
+- 📈 Automatic scalability
+
+[Discover BigBi →](https://github.com/HiGrp/01-HiBigBi)
+
+### 📊 GraphAsk
+**AI Data Viz**
+
+Transforms your data into intelligent visualizations. Ask your questions in natural language and instantly get the most relevant charts.
+
+- 🗣️ Questions in Arabic, French, English...
+- 🎨 Intelligent visualizations
+- 🤖 Automatic insights
+- 🔮 Predictive AI
+
+[Discover GraphAsk →](https://github.com/HiGrp/02-GraphAsk-SaaS)
+
+---
+
+## 🌟 Why Hi Group?
+
+### 🔐 Sovereignty
+Absolute digital sovereignty guaranteed. Your data stays in your servers with end-to-end encryption, automatic anonymization, and native GDPR compliance. Total control, maximum security.
+
+### 💪 Expertise
+More than 10 years of experience in Data, AI, Cloud, and Cybersecurity. Our experts master the latest technologies.
+
+### 🚀 Innovation
+We develop our own technological solutions and stay at the forefront of innovation to offer you the best performance.
+
+### 🎯 Flexibility
+We adapt to your constraints and specific needs. Tailored solutions for each project.
+
+---
+
+## 🏢 Our Platforms
 
 ### 🎯 Core Platforms
-- **[01-HiBigBi](https://github.com/HiGrp/01-HiBigBi)** ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python) - Main BigData & Analytics Platform
-- **[01-HiBigBi-Deploy](https://github.com/HiGrp/01-HiBigBi-Deploy)** - Deployment & Infrastructure
-- **[02-GraphAsk-SaaS](https://github.com/HiGrp/02-GraphAsk-SaaS)** - SaaS Platform for Graph Processing
-- **[02-Graphask-B2B](https://github.com/HiGrp/02-Graphask-B2B)** - GraphAsk B2B Solution
-- **[02-GraphAsk-Deploy](https://github.com/HiGrp/02-GraphAsk-Deploy)** - GraphAsk Deployment
-- **[02-GraphAsk-Azure-Marketplace](https://github.com/HiGrp/02-GraphAsk-Azure-Marketplace)** - Azure Marketplace Integration 
-- **[02-GraphAsk-Mobile-App](https://github.com/HiGrp/02-GraphAsk-Mobile-App)** - GraphAsk Mobile Client
+- **[BigBi](https://github.com/HiGrp/01-HiBigBi)** - Advanced Data & Analytics Platform
+- **[GraphAsk SaaS](https://github.com/HiGrp/02-GraphAsk-SaaS)** - AI-Powered Data Visualization
+- **[GraphAsk B2B](https://github.com/HiGrp/02-Graphask-B2B)** - Enterprise Data Intelligence
 
+### 📱 Mobile & Web Applications
+- **[Car Diagnostics App](https://github.com/HiGrp/00-Mobile-App-CarDiag)** - Intelligent Vehicle Diagnostics
+- **[GraphAsk Mobile](https://github.com/HiGrp/02-GraphAsk-Mobile-App)** - Mobile Data Visualization
+- **[KillOrScale](https://github.com/HiGrp/03-KillOrScale)** - Business Decision Platform
+- **[Voice AI Agent](https://github.com/HiGrp/99-Mobile-App-Agent-Vocal-AI)** - AI-Powered Voice Assistant
 
-### 📱 Mobile & Web & Desktop Applications
-- **[00-Mobile-App-CarDiag](https://github.com/HiGrp/00-Mobile-App-CarDiag)** ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java) - Car Diagnostics Mobile App
-- **[00-Teen-Learn-Code](https://github.com/HiGrp/00-Teen-Learn-Code)** - Educational Platform for Teens
-- **[03-KillOrScale](https://github.com/HiGrp/03-KillOrScale)** - Business Decision Platform
-- **[11-Social-Network-Automation](https://github.com/HiGrp/11-Social-Network-Automation)** - Social Media Automation Tools
-- **[99-Mobile-App-Agent-Vocal-AI](https://github.com/HiGrp/99-Mobile-App-Agent-Vocal-AI)** - AI Voice Agent Mobile App
+### 💼 Enterprise Solutions
+- **[BigBi Deploy](https://github.com/HiGrp/01-HiBigBi-Deploy)** - Production Infrastructure
+- **[GraphAsk Deploy](https://github.com/HiGrp/02-GraphAsk-Deploy)** - Enterprise Deployment
+- **[Azure Marketplace](https://github.com/HiGrp/02-GraphAsk-Azure-Marketplace)** - Cloud Integration
 
-### 💼 Internal Tools
-- **[10-HiGrpFacturationV2](https://github.com/HiGrp/10-HiGrpFacturationV2)** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php) - Billing System v2
-- **[04-Marketing-AI-Agent](https://github.com/HiGrp/04-Marketing-AI-Agent)** - AI-Powered Marketing Agent
-- **[ContentAi-Manager](https://github.com/HiGrp/ContentAi-Manager)** - AI Content Management System
-
-### 🎓 Customers (12iGroup)
-- **[09-FlashExo-Mobile-App](https://github.com/HiGrp/09-FlashExo-Mobile-App)** - FlashExo Mobile Learning App
-- **[09-FlashExo-Back-Office](https://github.com/HiGrp/09-FlashExo-Back-Office)** - FlashExo Admin Dashboard
-- **[09-FlashExo-Back-Office-Laravel](https://github.com/HiGrp/09-FlashExo-Back-Office-Laravel)** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php) - FlashExo Backend (Laravel)
-
-### 🤖 Misc
-- **[ZZ-Training](https://github.com/HiGrp/ZZ-Training)** ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python) - ML Training Framework
-- **[ZZ-Chatbot](https://github.com/HiGrp/ZZ-Chatbot)** ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python) - Chatbot AI Agent
-
-### 🌐 Web & Frontend
-- **[10-HiGroup.systems_LandingPage](https://github.com/HiGrp/10-HiGroup.systems_LandingPage)** - New HiGroup Website
-
-### 🌐 Infrastructure & DevOps
-- **[00-Nginx-IONOS](https://github.com/HiGrp/00-Nginx-IONOS)** ![Dockerfile](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) - Nginx Configuration (IONOS Hosting)
-
+[Explore All Projects →](https://github.com/orgs/HiGrp/repositories)
 
 ---
 
-## 📦 Legacy Projects
+## 👥 Trusted by Leading Companies
 
-All legacy and archived projects (prefixed with "Old-") have been moved to **[HiGrp-Archive](https://github.com/HiGrp-Archive)** organization for better organization and cleanup.
+<div align="center">
 
----
+**Huawei** • **OCP Group** • **MAP** • **Société Générale** • **Banque de France** • **IQVIA** • And many more...
 
-## 🛠️ Technology Stack
-
-| Category | Technologies |
-|----------|---------------|
-| **Languages** | Python, JavaScript, TypeScript, Java, PHP, Dart |
-| **Frameworks** | Flask, Streamlit, React, Flutter, Laravel, Next.js |
-| **ML/AI** | TensorFlow, MediaPipe, NLP Models, Agents |
-| **DevOps** | Docker, Nginx, Azure, IONOS |
-| **Databases** | SQL, BigData Technologies |
-| **Mobile** | React Native, Flutter, Swift |
+</div>
 
 ---
 
-## 📈 Organization Stats
+## 🛠️ Our Technology Stack
 
-- **Active Projects**: 25+
-- **Legacy Projects**: 50+ (in HiGrp-Archive)
-- **Primary Languages**: Python, JavaScript, PHP
-- **Focus Areas**: SaaS Platforms, AI/ML, Education Tech, Business Automation
-
----
-
-## 🔗 Quick Links
-
-- 👉 [View Active Repositories](https://github.com/orgs/HiGrp/repositories)
-- 🗃️ [View Legacy Repositories](https://github.com/orgs/HiGrp-Archive/repositories)
-- 📚 [Organization Profile](https://github.com/HiGrp)
-- 💬 [Discussions](https://github.com/orgs/HiGrp/discussions)
+| Category | Stack |
+|----------|-------|
+| **Languages** | Python, JavaScript/TypeScript, Java, PHP, Dart |
+| **Frameworks** | Flask, React, Next.js, Laravel, Flutter |
+| **Data & AI** | Apache Spark, TensorFlow, NLP, Machine Learning Agents |
+| **Cloud & DevOps** | Docker, Kubernetes, Azure, AWS, IONOS |
+| **Databases** | PostgreSQL, MongoDB, BigData Technologies |
+| **Security** | End-to-End Encryption, GDPR Compliance, Anonymization |
 
 ---
 
-**Last Updated**: May 2026
+## 📊 By The Numbers
+
+- **25+** Active Projects in Development
+- **10+** Years of Expertise
+- **2** Offices (Paris 🇫🇷 & Casablanca 🇲🇦)
+- **100%** Sovereign Data Processing
+
+---
+
+## ✉️ Let's Talk About Your Project
+
+Ready to transform your company? Our team of experts is at your disposal to discuss your needs in **Data**, **AI**, **Cloud**, and **Cybersecurity**.
+
+<div align="center">
+
+### 📧 [contact@higroup.systems](mailto:contact@higroup.systems)
+
+**Paris, France** 🇫🇷 • **Casablanca, Morocco** 🇲🇦
+
+[Visit Our Website](https://higroup.systems/) • [Follow Us on GitHub](https://github.com/HiGrp)
+
+</div>
+
+---
+
+<div align="center">
+
+**Hi Group** — *Transforming Data Into Strategic Value* 🚀
+
+*Last Updated: May 2026*
+
+</div>
