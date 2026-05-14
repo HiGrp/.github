@@ -50,7 +50,7 @@ A revolutionary ETL platform based on Apache Spark that allows companies to crea
 - 🔧 No code required
 - 📈 Automatic scalability
 
-[Discover BigBi →](https://github.com/HiGrp/01-HiBigBi)
+[Discover BigBi →](http://197.153.60.68:8090/)
 
 ### 📊 GraphAsk
 **AI Data Viz**
@@ -62,7 +62,7 @@ Transforms your data into intelligent visualizations. Ask your questions in natu
 - 🤖 Automatic insights
 - 🔮 Predictive AI
 
-[Discover GraphAsk →](https://github.com/HiGrp/02-GraphAsk-SaaS)
+[Discover GraphAsk →](https://graphask.com/)
 
 ---
 
@@ -82,28 +82,6 @@ We adapt to your constraints and specific needs. Tailored solutions for each pro
 
 ---
 
-## 🏢 Our Platforms
-
-### 🎯 Core Platforms
-- **[BigBi](https://github.com/HiGrp/01-HiBigBi)** - Advanced Data & Analytics Platform
-- **[GraphAsk SaaS](https://github.com/HiGrp/02-GraphAsk-SaaS)** - AI-Powered Data Visualization
-- **[GraphAsk B2B](https://github.com/HiGrp/02-Graphask-B2B)** - Enterprise Data Intelligence
-
-### 📱 Mobile & Web Applications
-- **[Car Diagnostics App](https://github.com/HiGrp/00-Mobile-App-CarDiag)** - Intelligent Vehicle Diagnostics
-- **[GraphAsk Mobile](https://github.com/HiGrp/02-GraphAsk-Mobile-App)** - Mobile Data Visualization
-- **[KillOrScale](https://github.com/HiGrp/03-KillOrScale)** - Business Decision Platform
-- **[Voice AI Agent](https://github.com/HiGrp/99-Mobile-App-Agent-Vocal-AI)** - AI-Powered Voice Assistant
-
-### 💼 Enterprise Solutions
-- **[BigBi Deploy](https://github.com/HiGrp/01-HiBigBi-Deploy)** - Production Infrastructure
-- **[GraphAsk Deploy](https://github.com/HiGrp/02-GraphAsk-Deploy)** - Enterprise Deployment
-- **[Azure Marketplace](https://github.com/HiGrp/02-GraphAsk-Azure-Marketplace)** - Cloud Integration
-
-[Explore All Projects →](https://github.com/orgs/HiGrp/repositories)
-
----
-
 ## 👥 Trusted by Leading Companies
 
 <div align="center">
@@ -118,13 +96,12 @@ We adapt to your constraints and specific needs. Tailored solutions for each pro
 
 | Category | Stack |
 |----------|-------|
-| **Languages** | Python, JavaScript/TypeScript, Java, PHP, Dart |
-| **Frameworks** | Flask, React, Next.js, Laravel, Flutter |
-| **Data & AI** | Apache Spark, TensorFlow, NLP, Machine Learning Agents |
-| **Cloud & DevOps** | Docker, Kubernetes, Azure, AWS, IONOS |
+| **Data & AI** | Apache Spark, Kafka, TensorFlow, NLP, Machine Learning Agents |
+| **Cloud & DevOps** | Docker, Kubernetes, Azure, AWS |
 | **Databases** | PostgreSQL, MongoDB, BigData Technologies |
 | **Security** | End-to-End Encryption, GDPR Compliance, Anonymization |
-
+| **Languages** | Python, Java, Scala |
+| **Frameworks** | React, Next.js |
 ---
 
 ## 📊 By The Numbers
